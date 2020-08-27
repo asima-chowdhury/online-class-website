@@ -1,0 +1,11 @@
+.container{
+    padding-top: 25px;
+}
+.footer-area{
+    background: linear-gradient(to right , #4289FF, #07F8C3);
+}
+.list-group-item {
+    padding: 5px;
+    border: none;
+    background-color: transparent;
+}

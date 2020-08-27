@@ -1,0 +1,10 @@
+.header-container img{
+    width:200px;
+}
+.bg-dark {
+    background: linear-gradient(to right , #4289FF, #07F8C3);
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: black;
+    font-weight: 600;
+}
